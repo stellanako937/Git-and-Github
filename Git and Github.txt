@@ -1,1 +1,9 @@
+Git is a piece of software that keeps track of the entire history of the things you are working on, on the computer
+Git is a special tool which has a lot of advancement for sophisticated features for collaboration.
+Git doesn't have a problem with 2 or more people working on the same document in the same time so it allows many people to work on a project together
+Git is the actual version control software
 
+Github is a web service where you can sign up and get an account
+Github is a social network used to do all the things Git does so Github runs the Git software behind the scene
+With Github you can make repository when you add files to the repository
+You can make changes to those files by making commits and those files allow you to browse the history and each one of those commit has a unique identifier to them.
